@@ -1,0 +1,9 @@
+F:\Networking\ASSN\ASSN\obj\Debug\ASSN.csproj.CoreCompileInputs.cache
+F:\Networking\ASSN\ASSN\bin\Debug\ASSN.dll.config
+F:\Networking\ASSN\ASSN\bin\Debug\ASSN.dll
+F:\Networking\ASSN\ASSN\bin\Debug\ASSN.pdb
+F:\Networking\ASSN\ASSN\bin\Debug\ASSN.dll.CodeAnalysisLog.xml
+F:\Networking\ASSN\ASSN\bin\Debug\ASSN.dll.lastcodeanalysissucceeded
+F:\Networking\ASSN\ASSN\obj\Debug\ASSN.dll
+F:\Networking\ASSN\ASSN\obj\Debug\ASSN.pdb
+F:\Networking\ASSN\ASSN\obj\Debug\ASSN.csprojResolveAssemblyReference.cache

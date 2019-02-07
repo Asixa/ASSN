@@ -9,3 +9,14 @@ D:\Codes\Projects\University\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Serve
 D:\Codes\Projects\University\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.pdb
 D:\Codes\Projects\University\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.runtimeconfig.json
 D:\Codes\Projects\University\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.runtimeconfig.dev.json
+F:\Networking\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.deps.json
+F:\Networking\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.runtimeconfig.json
+F:\Networking\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.runtimeconfig.dev.json
+F:\Networking\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.dll
+F:\Networking\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.pdb
+F:\Networking\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.csprojResolveAssemblyReference.cache
+F:\Networking\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.csproj.CoreCompileInputs.cache
+F:\Networking\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.AssemblyInfoInputs.cache
+F:\Networking\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.AssemblyInfo.cs
+F:\Networking\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.dll
+F:\Networking\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.pdb

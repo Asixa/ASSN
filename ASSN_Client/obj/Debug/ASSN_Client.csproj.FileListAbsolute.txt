@@ -5,3 +5,11 @@ D:\Codes\Projects\University\ASSN\ASSN_Client\obj\Debug\ASSN_Client.csprojAssemb
 D:\Codes\Projects\University\ASSN\ASSN_Client\obj\Debug\ASSN_Client.csproj.CoreCompileInputs.cache
 D:\Codes\Projects\University\ASSN\ASSN_Client\obj\Debug\ASSN_Client.exe
 D:\Codes\Projects\University\ASSN\ASSN_Client\obj\Debug\ASSN_Client.pdb
+F:\Networking\ASSN\ASSN_Client\bin\Debug\ASSN_Client.exe.config
+F:\Networking\ASSN\ASSN_Client\bin\Debug\ASSN_Client.exe
+F:\Networking\ASSN\ASSN_Client\bin\Debug\ASSN_Client.pdb
+F:\Networking\ASSN\ASSN_Client\bin\Debug\ASSN_Client.exe.CodeAnalysisLog.xml
+F:\Networking\ASSN\ASSN_Client\bin\Debug\ASSN_Client.exe.lastcodeanalysissucceeded
+F:\Networking\ASSN\ASSN_Client\obj\Debug\ASSN_Client.csproj.CoreCompileInputs.cache
+F:\Networking\ASSN\ASSN_Client\obj\Debug\ASSN_Client.exe
+F:\Networking\ASSN\ASSN_Client\obj\Debug\ASSN_Client.pdb

@@ -14,7 +14,7 @@ namespace ASSN_Server
         public static readonly Socket ServerSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
         public static readonly List<Socket> ClientSockets = new List<Socket>();
    
-        private static readonly byte[] buffer = new byte[BufferSize];
+        private static readonly byte[] Buffer = new byte[BufferSize];
 
         // ReSharper disable twice InconsistentNaming
         public delegate void OnReceiveDataDelegate(byte[] data, Socket sender);
@@ -55,7 +55,7 @@ namespace ASSN_Server
             }
 
             ClientSockets.Add(socket);
-            socket.BeginReceive(buffer, 0, BufferSize, SocketFlags.None, ReceiveCallback, socket);
+            socket.BeginReceive(Buffer, 0, BufferSize, SocketFlags.None, ReceiveCallback, socket);
             Console.WriteLine("Client connected");
             ServerSocket.BeginAccept(AcceptCallback, null);
         }
@@ -82,12 +82,12 @@ namespace ASSN_Server
             }
 
             var rec_buf = new byte[received];
-            Array.Copy(buffer, rec_buf, received);
+            Array.Copy(Buffer, rec_buf, received);
 
             OnReceiveData.Invoke(rec_buf, current);
             try
             {
-                current.BeginReceive(buffer, 0, BufferSize, SocketFlags.None, ReceiveCallback, current);
+                current.BeginReceive(Buffer, 0, BufferSize, SocketFlags.None, ReceiveCallback, current);
             }
             catch (Exception e)
             {
