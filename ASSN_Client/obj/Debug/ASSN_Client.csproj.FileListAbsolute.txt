@@ -1,0 +1,7 @@
+D:\Codes\Projects\University\ASSN\ASSN_Client\bin\Debug\ASSN_Client.exe.config
+D:\Codes\Projects\University\ASSN\ASSN_Client\bin\Debug\ASSN_Client.exe
+D:\Codes\Projects\University\ASSN\ASSN_Client\bin\Debug\ASSN_Client.pdb
+D:\Codes\Projects\University\ASSN\ASSN_Client\obj\Debug\ASSN_Client.csprojAssemblyReference.cache
+D:\Codes\Projects\University\ASSN\ASSN_Client\obj\Debug\ASSN_Client.csproj.CoreCompileInputs.cache
+D:\Codes\Projects\University\ASSN\ASSN_Client\obj\Debug\ASSN_Client.exe
+D:\Codes\Projects\University\ASSN\ASSN_Client\obj\Debug\ASSN_Client.pdb

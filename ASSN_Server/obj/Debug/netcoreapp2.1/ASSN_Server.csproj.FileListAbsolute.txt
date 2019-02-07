@@ -1,0 +1,11 @@
+D:\Codes\Projects\University\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.deps.json
+D:\Codes\Projects\University\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.dll
+D:\Codes\Projects\University\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.pdb
+D:\Codes\Projects\University\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.csprojAssemblyReference.cache
+D:\Codes\Projects\University\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.csproj.CoreCompileInputs.cache
+D:\Codes\Projects\University\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.AssemblyInfoInputs.cache
+D:\Codes\Projects\University\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.AssemblyInfo.cs
+D:\Codes\Projects\University\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.dll
+D:\Codes\Projects\University\ASSN\ASSN_Server\obj\Debug\netcoreapp2.1\ASSN_Server.pdb
+D:\Codes\Projects\University\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.runtimeconfig.json
+D:\Codes\Projects\University\ASSN\ASSN_Server\bin\Debug\netcoreapp2.1\ASSN_Server.runtimeconfig.dev.json
